@@ -9,7 +9,7 @@ import Foundation
 
 // 注意不同module访问需要将访问权限设为pubilc
 public struct Macro {
-    public var title = "Swift Package Module Test"
+    public var title = "Swift Package Module"
     
     public init() {
         
